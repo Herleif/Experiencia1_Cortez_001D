@@ -1,0 +1,37 @@
+.carrusel{
+    width: 800px;
+    right: 400px;
+    margin:auto;
+}
+.barra{
+    background-color: rgb(255, 134, 134);
+    display: flex;
+    justify-content:space-around;
+}
+.piepagina{
+    width: 100%;
+    right: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    font-size: small;
+    padding-top: 10px;
+}
+.parrafo{
+    width: 800px;
+    display:flex;
+    padding-top: 50px;
+    text-align: justify;
+    font-size: large;
+}
+.Titulo{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+body{
+    background-color: rgb(255, 193, 193);
+}
