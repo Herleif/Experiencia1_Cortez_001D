@@ -2,6 +2,7 @@
     width: 800px;
     right: 400px;
     margin:auto;
+    padding-bottom: 50px;
 }
 .barra{
     background-color: rgb(255, 134, 134);
@@ -21,7 +22,7 @@
 .parrafo{
     width: 800px;
     display:flex;
-    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: justify;
     font-size: large;
 }
@@ -31,7 +32,7 @@
     font-size: xx-large;
     padding-top: 60px;
     padding-bottom: 60px;
-}
+}  
 body{
     background-color: rgb(255, 193, 193);
 }
