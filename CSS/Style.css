@@ -8,6 +8,7 @@
     background-color: rgb(255, 134, 134);
     display: flex;
     justify-content:space-around;
+    width: 100%;
 }
 .piepagina{
     width: 100%;
